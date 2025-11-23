@@ -30,7 +30,4 @@ It allows the user to:
 
 ---
 
-## Certificates
-
-<img width="474" height="335" alt="image" src="https://github.com/user-attachments/assets/a768f634-3d2f-4c9d-b4a0-b8040e1a78df" />
 
