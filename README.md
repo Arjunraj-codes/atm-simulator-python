@@ -27,3 +27,8 @@ It allows the user to:
 ## 📌 How to Run
 
 1. Clone the repository  
+
+### Certificates
+
+![Python Certificate](certificates/<img width="474" height="335" alt="image" src="https://github.com/user-attachments/assets/a768f634-3d2f-4c9d-b4a0-b8040e1a78df" />
+)
