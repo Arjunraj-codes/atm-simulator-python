@@ -26,7 +26,9 @@ It allows the user to:
 
 ## 📌 How to Run
 
-1. Clone the repository  
+1. Clone the repository
+
+---
 
 ## Certificates
 
